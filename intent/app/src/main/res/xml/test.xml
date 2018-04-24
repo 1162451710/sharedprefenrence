@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:key="name"
+        android:title="Name"
+        android:summary="Enter name"
+
+        />
+
+    <!--<ListPreference-->
+        <!--android:key="工号"-->
+        <!--android:title="gonghao"-->
+        <!--android:summary="Enter num"/>-->
+
+    <EditTextPreference
+        android:key="ID"
+        android:title="ID"
+        android:summary="Enter ID"
+        android:text="0409"/>
+
+</PreferenceScreen>
